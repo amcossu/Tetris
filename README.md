@@ -3,11 +3,6 @@
 Site of presentation of Tetris' project developped for the Afterwork4 of the Passarelle Numérique at École Centrale de Marseille, Marseille - France.
 
 
-## Link
-
-https://amcossu.github.io/Tetris/
-
-
 ## Built With (Site de présentation)
 
 * [HTML & CSS](https://www.w3.org/standards/webdesign/htmlcss.html) 
