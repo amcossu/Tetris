@@ -1,7 +1,12 @@
 # Tetris
 
-Site of presentation of Tetris' project developped for the Afterwork4 of the Passarelle Numérique at École Centrale de Marseille, Marseille - France.
+Site of presentation of Tetris' project developped for the Afterwork4 of the Passarelle Numérique at École Centrale de Marseille, Marseille - France. 
 
+## Link of the game
+http://13.93.104.26:2758/t
+
+## Link of the gamepad (better experience with Android's smartphones)
+http://13.93.104.26:2758/m
 
 ## Built With (Site de présentation)
 
