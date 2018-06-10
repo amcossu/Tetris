@@ -2,19 +2,19 @@
 
 Site of presentation of Tetris' project developped for the Afterwork4 of the Passarelle Numérique at École Centrale de Marseille, Marseille - France. 
 
-## Link of the game
+### Link of the game
 http://13.93.104.26:2758/t
 
-## Link of the gamepad (better experience with Android's smartphones)
+### Link of the gamepad (better experience with Android's smartphones)
 http://13.93.104.26:2758/m
 
-## Built With (Site de présentation)
+## Built With (Presentation site of the projet)
 
 * [HTML & CSS](https://www.w3.org/standards/webdesign/htmlcss.html) 
 * [Bootstrap4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) 
 * [Javascript](https://www.javascript.com/) 
 
-## Built With (Jeu et manette Tetris)
+## Built With (Game and gamepad)
 * [HTML & CSS](https://www.w3.org/standards/webdesign/htmlcss.html) 
 * [Bootstrap4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) 
 * [Javascript](https://www.javascript.com/) 
