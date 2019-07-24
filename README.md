@@ -8,13 +8,7 @@ http://13.93.104.26:2758/t
 ### Link of the gamepad (better experience with Android's smartphones)
 http://13.93.104.26:2758/m
 
-## Built With (Presentation site of the projet)
-
-* [HTML & CSS](https://www.w3.org/standards/webdesign/htmlcss.html) 
-* [Bootstrap4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) 
-* [Javascript](https://www.javascript.com/) 
-
-## Built With (Game and gamepad)
+## Built With
 * [HTML & CSS](https://www.w3.org/standards/webdesign/htmlcss.html) 
 * [Bootstrap4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) 
 * [Javascript](https://www.javascript.com/) 
